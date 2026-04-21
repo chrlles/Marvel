@@ -34,11 +34,10 @@
   <p><i>Gráfico horizontal ordenado, formatado em bilhões de dólares (USD).</i></p>
 </div>
 <h2>💡 Insights Extraídos</h2>
-<p>Domínio da Fase 3: Visualmente, a Fase 3 concentra os maiores picos de bilheteria, culminando em Vingadores: Ultimato.</p>
 <ul>
-  <li><b>Localização:</b> Tradução completa dos títulos dos filmes para o português.</li>
+  <li><b>Domínio da Fase 3:</b> Visualmente, a Fase 3 concentra os maiores picos de bilheteria, culminando em Vingadores: Ultimato.</li>
   <li><b>Engenharia de Dados:</b> Conversão de strings monetárias em formatos numéricos para cálculos precisos.</li>
-  <li><b>Identidade Visual:</b> Implementação de <i>Color Mapping</i> para diferenciar as fases do MCU no gráfico.</li>
+  <li><b>Consistência:</b> Mesmo com orçamentos variados, a franquia mantém uma média de faturamento acima de $500M por título.</li>
 </ul>
 
 <hr>
