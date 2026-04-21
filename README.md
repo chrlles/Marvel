@@ -33,6 +33,13 @@
   <img width="1189" height="1389" alt="image" src="https://github.com/user-attachments/assets/f0b75ec5-0d8c-4a2b-80ca-b2c18d5dd3ff" />
   <p><i>Gráfico horizontal ordenado, formatado em bilhões de dólares (USD).</i></p>
 </div>
+<h2>💡 Insights Extraídos</h2>
+<p>Domínio da Fase 3: Visualmente, a Fase 3 concentra os maiores picos de bilheteria, culminando em Vingadores: Ultimato.</p>
+<ul>
+  <li><b>Localização:</b> Tradução completa dos títulos dos filmes para o português.</li>
+  <li><b>Engenharia de Dados:</b> Conversão de strings monetárias em formatos numéricos para cálculos precisos.</li>
+  <li><b>Identidade Visual:</b> Implementação de <i>Color Mapping</i> para diferenciar as fases do MCU no gráfico.</li>
+</ul>
 
 <hr>
 
