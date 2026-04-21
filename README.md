@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
   <h1>Análise de Bilheteria do MCU</h1>
   <p><i>Nova exploração de dados da bilheteria do Universo Cinematográfico da Marvel (MCU). Uma revisão atualizada de um projeto antigo, aplicando novas perspectivas e ferramentas de análise.</i></p>
 </div>
