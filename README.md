@@ -36,7 +36,6 @@
 <h2>💡 Insights Extraídos</h2>
 <ul>
   <li><b>Domínio da Fase 3:</b> Visualmente, a Fase 3 concentra os maiores picos de bilheteria, culminando em Vingadores: Ultimato.</li>
-  <li><b>Engenharia de Dados:</b> Conversão de strings monetárias em formatos numéricos para cálculos precisos.</li>
   <li><b>Consistência:</b> Mesmo com orçamentos variados, a franquia mantém uma média de faturamento acima de $500M por título.</li>
 </ul>
 
